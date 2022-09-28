@@ -33,15 +33,14 @@ img: ":tech.jpg"
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
-# Quem sou eu?
-
-<p> <b>Formado em letras, bacharelado e licenciatura por uma das mais prestigiadas universidades do Brasil, a UNESP</b> </p>
-<p> <b> Formado em Medicina Veterinária, támbém pela UNESP </b> </p>
-
-<p> Essas formações, tão diversas, podem contar um pouco sobre quem eu sou. Gosto de trabalhar com texto, gosto de desafios e, principalmente, novas experiências. Me dediquei desde o estudo de poesia brasileira até os efeitos cardíacos dos corticóides nos cães.
-Ao longo de todo esse tempo, enquanto aprendia tantas coisas diferentes, continuei tendo uma paixão: tecnologia. </p>
-
-<p> Desde o meu primeiro XT, com monitor de fósforo verde, desde a era dos sites sendo passados para o provedor de internet via disquete até os dias de hoje software e hardware sempre estiveram presentes e hoje resolvi, por fim, que faria deste gosto minha profissão. </p>
+Formado em letras, bacharelado e licenciatura por uma das mais prestigiadas universidades do Brasil, a UNESP.
+<br/> <br/> 
+Formado em Medicina Veterinária, támbém pela UNESP.
+<br/> <br/> 
+Essas formações, tão diversas, podem contar um pouco sobre quem eu sou. Gosto de trabalhar com texto, gosto de desafios e, principalmente, novas experiências. Me dediquei desde o estudo de poesia brasileira até os efeitos cardíacos dos corticóides nos cães.
+Ao longo de todo esse tempo, enquanto aprendia tantas coisas diferentes, continuei tendo uma paixão: tecnologia.
+<br/> <br/> 
+Desde o meu primeiro XT, com monitor de fósforo verde, desde a era dos sites sendo passados para o provedor de internet via disquete até os dias de hoje software e hardware sempre estiveram presentes e hoje resolvi, por fim, que faria deste gosto minha profissão.
 
 
 

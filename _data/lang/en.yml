@@ -167,8 +167,7 @@ privacy-policy:
 constants:
   greetings: Hello
   welcome: Welcome
-  sample: With a degree in literature, linguistics and veterinary,
-          <br> now having a good time as a developer.</br>
+  sample: A degree in literature, linguistics and veterinary, now having a good time as a developer.
 
 # for cookie consent
 cookie_consent:

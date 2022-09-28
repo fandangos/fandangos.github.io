@@ -167,8 +167,7 @@ privacy-policy:
 constants:
   greetings: Olá
   welcome: Bem vindo
-  sample: Formado em letras (linguística, literatura) e veterinária. 
-          <br>Agora se divertindo como desenvolvedor.</br>
+  sample: Formado em Letras (Linguística, Literatura) e Veterinária. Agora se divertindo como desenvolvedor.
 
 # for cookie consent
 cookie_consent:
