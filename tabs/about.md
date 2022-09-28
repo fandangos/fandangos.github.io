@@ -39,6 +39,4 @@ A degree in Veterinary after 5 years coursing UNESP.
 <br/> <br/> 
 After 10 years in 2, so different, graduations those can tell a little of who I am. Someone that enjoys working with text, that enjoys a challange e, most of all, new experiences. I have dedicated myself from studies in brazilian poetry to the heart conditions of dogs that were treated with corticosteroids. During all this time, while learning so many different things, I kept a passion: technology.
 <br/> <br/> 
-Since my first IBM XT, with a grenn phosphour display, since the days that to build a site you need to take it by floopy disks to your ISP to be published until today, software and hardware were always present in my life. So I decided, at last, that I would 
-<br/> <br/> 
-Desde o meu primeiro XT, com monitor de fósforo verde, desde a era dos sites sendo passados para o provedor de internet via disquete até os dias de hoje software e hardware sempre estiveram presentes e hoje resolvi, por fim, que faria deste gosto minha profissão.
+Since my first IBM XT, with a grenn phosphour display, since the days that to build a site you need to take it by floopy disks to your ISP to be published until today, software and hardware were always present in my life. So I decided, at last, that I would turn this passion into my daily work.
