@@ -1,6 +1,6 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_Mr_Green_Jekyll_Theme
+lng_pair: new_journey
 title: "Começando uma jornada"
 
 # post specific
@@ -36,13 +36,13 @@ img: ":road.jpg"
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
-Este blog é um exercício pessoal como web develoepr. Eu quis usar o github, uma vez que eu já tinha experiência mas também porque eu queria colocar em prática,
+Este blog é um exercício pessoal como web developer. Eu quis usar o github, uma vez que eu já tinha experiência mas também porque eu queria colocar em prática,
 tudo que eu aprendi com HTML, CSS, JavaScript, Ruby e Jekyll - linguagem que esse tema é escrito.
 <br/> <br/>
 Como o título diz, essa é apenas uma introdução e eu planejo usar esse blog como um pequeno espaço para contar coisas novas que eu aprendi e explicar algumas coisas
 que eu já fiz. 
 <br/> <br/>
-Este site está disponível em inlgês e português. Todos os posts serão escritos nas duas línguas. Esse site também tem modo claro e modo escuro que podem ser habilitados
+Este site está disponível em inglês e português. Todos os posts serão escritos nas duas línguas. Esse site também tem modo claro e modo escuro que podem ser habilitados
 no canto inferior esquerdo.
 <br/> <br/>
 Espero que você goste e tenha uma boa leitura.

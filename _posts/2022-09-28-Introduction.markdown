@@ -1,6 +1,6 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_Mr_Green_Jekyll_Theme
+lng_pair: new_journey
 title: Introduction
 
 # post specific
