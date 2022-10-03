@@ -49,8 +49,7 @@ meta_common_description: "Personal blog about Vitor DallAcqua focused on technol
 # comment to remove any contact item
 contacts:
   - github: ""
-  #- email: ""
-  #- linkedin: ""
+  - linkedin: ""
   #- twitter: ""
   #- instagram: ""
   #- youtube: ""

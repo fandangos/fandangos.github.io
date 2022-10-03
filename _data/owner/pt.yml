@@ -49,8 +49,7 @@ meta_common_description: "Blog pessoal sobre Vitor DallAcqua voltado especialmen
 # comment to remove any contact item
 contacts:
   - github: ""
-  #- email: ""
-  #- linkedin: ""
+  - linkedin: ""
   #- twitter: ""
   #- instagram: ""
   #- youtube: ""

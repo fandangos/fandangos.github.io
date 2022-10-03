@@ -11,12 +11,9 @@
 github:
   icon: "fa fa-github"
   url: "https://github.com/fandangos"
-email:
-  icon: "fa fa-envelope-o"
-  url: "vitor.mvet@gmail.com"
-# linkedin:
-#   icon: "fa fa-linkedin"
-#   url: "https://www.linkedin.com/in"
+linkedin:
+  icon: "fa fa-linkedin"
+  url: "https://www.linkedin.com/in/vitor-dallacqua-642529202"
 # twitter:
 #   icon: "fa fa-twitter"
 #   url: "https://twitter.com"
