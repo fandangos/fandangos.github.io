@@ -36,7 +36,7 @@ img: ":GitHub.png"
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Github is, without a doubt, one of the best places to learn to be a developer but not just that. The people I met along the way usually have a common interest: build something and that's what happened when I started working in this blog.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Github is, without a doubt, one of the best places to learn to be a developer but not just that. The people I met along the way usually have a common interest: building something and that's what happened when I started working in this blog.
 <br/><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When I started to think about making a personal site, as a blog, I looked for a place that I had some familiarity and, also, that I could learn something new. It was in this moment that I've found the themes build on Jekyll e I was able to learn what I already knew about HTML, CSS and JavaScript paired with a robust theme system that uses Ruby.
 <br/><br/>
@@ -49,4 +49,4 @@ And this was the reception:
 <br/><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now, someone that wants to utilize this theme, made on Jekyll, have the possibility to use it in English, Japonese and Portuguese and that's totally free. Anyone can freely clone this blog, erase my personal content and start in the same way as I'm doing at this moment while typing this text. That's the magic of open source, someone's work can help others. 
 <br/><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As I said, this is just the begging of a moment in my life as a developer. Also, to anyone that wants to visit this commit it's right here<a href="https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/pull/118#event-7500265176"> in this link.</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As I said, this is just the beginning of a moment in my life as a developer. Also, to anyone that wants to visit this commit it's right here<a href="https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/pull/118#event-7500265176"> in this link.</a>
