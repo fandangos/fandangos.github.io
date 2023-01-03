@@ -1,0 +1,54 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: AutoHDR_post
+title: "AUTOHDR: uma forma fácil e rápida para automatizar HDR10 no Windows"
+
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+author: Vitor DallAcqua
+# multiple category is not supported
+category: Developer
+# multiple tag entries are possible
+tags: [Developer]
+# thumbnail image for post
+img: ":hdr10.jpg"
+# disable comments on this page
+#comments_disable: true
+
+# publish date
+# date: 2022-03-03 10:04:19 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-03-03 10:04:19 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+Há algum tempo eu queria escrever um pequeno post sobre um dos desdobramentos de tudo que aprendi na minha jornada com o Kodi (XBMC) que resultou em uma pequena aplicação que eu dei nome de AUTOHDR. 
+<br/><br/>
+Primeiramente, HDR10 é basicamente um novo padrão de cores e de brilho que as TVs de monitores modernos são capazes de representar. Sua adoção começou primeiramente com filme e passou para games e essa aplicação beneficia os dois casos. 
+<br/><br/>
+Jogos que não fazem uso da API privada da Nvidia/AMD/Intel precisam usar o sistema integrado do Windows 10. Isso é mais real ainda quando falamos de players de video. Esses não podem ficar restritos a estas empresas e uma solução em código aberto precisou ser encontrada: uma API do Windows. Uma vez que o Windows sim tem em meio ao seu painel de controle uma forma de ligar e desligar HDR10 mas nada nem próximo de ser considerado automático. Então para isso AUTOHDR. 
+<br/><br/>
+Quando eu desenvolvi essa aplicação com ajuda de outros desenvolvedores do Time Kodi eu não sabia que a Microsoft iria escolher o mesmo nome para o seu próprio aplicativo que converte jogos antigos feito em SDR para HDR10. No entanto a minha aplicação somente liga e desliga HDR10 no Windows, podendo ser usada automaticamente esperando a aplicação ser encerrada para desligar o HDR10. 
+<br/><br/>
+Hoje, talvez, seu uso seja exclusivo para games que não usem API privadas para passar os metadados de HDR10 e pode vir a ser ainda mais útil assim que emuladores incorporarem shadders que simulam tvs de tubo CRT e BFI (black frame insertion), que faz com que a luminosidade das telas atuais caia muito. Para remediar isso HDR10 pode ser uma solução por conta de seus metadados estáticos e a conversão de SDR->HDR10 que o Windows 10 faz hoje. 
+<br/><br/>
+Se tiver interesse o projeto pode ser encontrado aqui:
+<a href="https://github.com/fandangos/AutoHDR"> AUTOHDR.</a>
+
+Foto do post por Fábio Silva:
+<a href="https://unsplash.com/photos/nmTm7knUnqs">link.</a>
